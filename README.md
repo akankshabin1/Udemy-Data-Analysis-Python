@@ -1,4 +1,3 @@
-# Udemy-Data-Analysis-Python
 This analysis aims to uncover trends, relationships, and insights that can help course creators and Udemy understand what drives success on the platform.
 
 Project Summary
